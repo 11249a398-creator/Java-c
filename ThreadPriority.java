@@ -1,3 +1,6 @@
+EXP NO:
+ DATE:
+
 import java.io.*;
 class A extends Thread
 {
