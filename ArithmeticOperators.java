@@ -105,5 +105,5 @@ Choose the operation you want to perform:
 6. EXIT
 1
 Result: 15
-Result
+Result:
 Thus, the Java program to perform arithmetic operations using a switch statement was executed successfully.
